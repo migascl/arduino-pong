@@ -6,3 +6,5 @@ The repository includes:
 *   The arduino program source code;
 *   The schematics and PCB design (made with Fritzing);
 *   The enclosuer's Autodesk Inventor Part file.
+
+![Screenshot](thumb.jpg)
