@@ -4,5 +4,5 @@ My 2017 high school's final year project. A portable 2-player pong console power
 
 The repository includes:
 *   The arduino program source code;
-*   The schematics and PCB design;
+*   The schematics and PCB design (made with Fritzing);
 *   The enclosuer's Autodesk Inventor Part file.
