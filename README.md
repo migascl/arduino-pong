@@ -8,3 +8,6 @@ The repository includes:
 *   The enclosuer's Autodesk Inventor Part file.
 
 ![Screenshot](thumb.jpg)
+
+---
+_Made by Miguel Leirosa, 2017_
